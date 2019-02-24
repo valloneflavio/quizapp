@@ -1,0 +1,16 @@
+{
+  "name": "quizapp",
+  "version": "1.0.0",
+  "description": "Quiz App with HTML, CSS, and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Flavio Vallone",
+  "license": "ISC"
+}
